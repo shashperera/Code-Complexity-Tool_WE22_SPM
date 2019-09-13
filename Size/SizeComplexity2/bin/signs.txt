@@ -1,0 +1,9 @@
++  - * / % ++ --
+== != > < >= <=
+&& || !
+| ^ ~ << >> <<< >>>
+, -> . ::
++= -= *= /= = >>>= |= &= %= <<= >>= ^=
+void double in float string printf println cout cin if for while do-while switch case
+endl \n 
+"djdj"
